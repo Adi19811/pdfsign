@@ -368,12 +368,6 @@
             color: white;
         }
 
-        @media (min-width: 768px) {
-            .main-container {
-                max-width: 600px;
-            }
-        }
-
         @media (max-width: 576px) {
             .main-container {
                 margin: 0 10px;
